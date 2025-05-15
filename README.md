@@ -52,6 +52,6 @@ To develop a Power BI dashboard that translates **stakeholder mockups and key me
 ## 📷 Dashboard
 
 <a ref= "https://app.powerbi.com/view?r=eyJrIjoiNjVjMTEzZGItNGY3YS00M2FkLTk5NzYtMWMyZGI1M2I3ZGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">
-<img src= "![Screenshot 2025-04-11 092334](https://github.com/user-attachments/assets/5105c668-3439-4406-b643-3cf1fe891e9b)" alt="Atliq Grands Revenue Insights Dashboard" >
+<img src= "https://github.com/user-attachments/assets/5105c668-3439-4406-b643-3cf1fe891e9b" alt="Atliq Grands Revenue Insights Dashboard" >
 </a>
 
